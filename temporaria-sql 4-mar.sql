@@ -1,4 +1,4 @@
-                                                                                                                                                                              create database vendas;
+create database vendas;
 use vendas;
 
 create table tipo_pagto(
